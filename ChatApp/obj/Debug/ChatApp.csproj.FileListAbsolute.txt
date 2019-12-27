@@ -1,0 +1,10 @@
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+D:\Campus\Year 2\Semester 1\BSCS 21043 - Visual Studio\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
